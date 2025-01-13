@@ -9,7 +9,7 @@
 <br>
 <div>
 <h2>Sobre o projeto</h2>
-<p>Apresento a vocês o meu projeto construido durante o evento "Programador em 72 Horas" do DevClub.</p>
+<p>Apresento a vocês o meu projeto construido durante o evento NO YOUTUBE "Programador em 72 Horas" do DevClub.</p>
 <p>Essa aplicação verifica o tempo da cidade solicitada.</p>
 <br>
 <br>
